@@ -7,5 +7,11 @@ $pip install pydicom
 ```
 - Install nibabel
 ```
-$ pip install nibabel
+$pip install nibabel
+```
+
+- Convert Data to .npy
+```
+$python dicom2npy.py
+$python nii2npy.py
 ```
