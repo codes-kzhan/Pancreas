@@ -5,3 +5,7 @@
 ```
 $pip install pydicom
 ```
+- Install nibabel
+```
+$ pip install nibabel
+```
