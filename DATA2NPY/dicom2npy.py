@@ -26,7 +26,7 @@ for n in range(N):
                 file1 = os.path.abspath(os.path.join(path_, f))
                 image = dicom.read_file(file1)
                 sliceID = image.data_element("InstanceNumber").value - 1
-                if image.pixel_array.shape[0] <> 512 or image.pixel_array.shape[1] <> 512:
+                if image.pixel_array.shape[0] != 512 or image.pixel_array.shape[1] != 512:
                     exit('  Error: DICOM image does not fit ' + str(W) + 'x' + str(H) + ' size!')
                 data[:, :, sliceID] = image.pixel_array
             file2 = os.path.join(path2, filename2)
