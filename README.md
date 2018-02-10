@@ -1,6 +1,6 @@
 # Pancreas
 
-## Getting :star:ted
+##  :star:
 - Install dicom, see also: https://pydicom.readthedocs.io/en/latest/getting_started.html#installing
 ```
 $pip install pydicom
