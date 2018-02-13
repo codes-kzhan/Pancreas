@@ -3,7 +3,7 @@
 # defining the root path which stores image and label data
 ENABLE_INITIALIZATION=1
 
-DATA_PATH='/home/zhankun/Pancreas/dataset'
+DATA_PATH='dataset'
 
 ####################################################################################################
 # export LD_LIBRARY_PATH and PYTHONPATH (related to your path to CUDA and CAFFE)
