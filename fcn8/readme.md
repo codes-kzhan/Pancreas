@@ -1,9 +1,11 @@
 
-# 0 prototxt
+# 0 
 
-https://raw.githubusercontent.com/codes-kzhan/fcn.berkeleyvision.org/master/pascalcontext-fcn8s/train.prototxt
+prototex: https://raw.githubusercontent.com/codes-kzhan/fcn.berkeleyvision.org/master/pascalcontext-fcn8s/train.prototxt
 
 visualization: http://ethereon.github.io/netscope/#/editor
+
+model: https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py
 
 # 1
 
