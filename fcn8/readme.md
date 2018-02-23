@@ -1,9 +1,9 @@
 
-#0 prototxt
+# 0 prototxt
 
 https://raw.githubusercontent.com/codes-kzhan/fcn.berkeleyvision.org/master/pascalcontext-fcn8s/train.prototxt
 
-http://ethereon.github.io/netscope/#/editor
+visualization: http://ethereon.github.io/netscope/#/editor
 
 # 1
 
