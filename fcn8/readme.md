@@ -3,7 +3,7 @@
 
 prototex: https://raw.githubusercontent.com/codes-kzhan/fcn.berkeleyvision.org/master/pascalcontext-fcn8s/train.prototxt
 
-visualization: http://ethereon.github.io/netscope/#/editor
+Visualization: http://ethereon.github.io/netscope/
 
 model: https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py
 
@@ -22,9 +22,3 @@ https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/tree/ma
 
 # 5
 https://github.com/lxg2015/FCN-pytorch/tree/master/models
-
-# watch net prototxts
-
-http://ethereon.github.io/netscope
-
-
