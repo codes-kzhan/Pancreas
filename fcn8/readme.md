@@ -22,3 +22,9 @@ https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch/tree/ma
 
 # 5
 https://github.com/lxg2015/FCN-pytorch/tree/master/models
+
+# watch net prototxts
+
+http://ethereon.github.io/netscope
+
+
