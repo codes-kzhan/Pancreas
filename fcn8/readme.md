@@ -26,11 +26,11 @@ https://github.com/lxg2015/FCN-pytorch/tree/master/models
 # 6 
 https://github.com/bodokaiser/piwise
 
-- practise
+- run
 ```
  conda install pytorch-cpu torchvision -c pytorch
  pip install --user fcn
- pip install --tqtm
+ pip install --user tqtm
  git clone https://github.com/wkentaro/pytorch-fcn.git
  cd wkentaro/pytorch-fcn/examples/voc
  cp -r ../../torchfcn/ ./
