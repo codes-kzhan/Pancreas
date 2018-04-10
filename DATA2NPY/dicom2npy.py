@@ -32,4 +32,3 @@ for n in range(N):
             file2 = os.path.join(path2, filename2)
             np.save(file2, data)
     print('File ' + volumeID + ' is saved in ' + file2 + ' .')
-
