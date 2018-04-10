@@ -24,3 +24,7 @@ $pip install nibabel
 $python dicom2npy.py
 $python nii2npy.py
 ```
+
+- local datasets
+
+$ sh init.sh
