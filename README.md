@@ -2,4 +2,6 @@
 
 ##  :star:
 - 
-$ cd init
+```
+$cd DATA2NPY
+```
