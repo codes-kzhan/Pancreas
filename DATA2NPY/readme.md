@@ -28,6 +28,6 @@ $python nii2npy.py
 - local datasets
 
 ```
-cd init
-$ sh init.sh
+$cd init
+$sh init.sh
 ```
