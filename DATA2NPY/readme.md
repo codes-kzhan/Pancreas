@@ -9,24 +9,20 @@
 https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT
 
 - Install dicom
-
-see also: https://pydicom.readthedocs.io/en/latest/getting_started.html#installing
 ```
 $pip install pydicom
 ```
+https://pydicom.readthedocs.io/en/latest/getting_started.html#installing
 - Install nibabel
 ```
 $pip install nibabel
 ```
-
 - Convert Data to .npy
 ```
 $python dicom2npy.py
 $python nii2npy.py
 ```
-
 - local datasets
-
 ```
 $cd init
 $sh init.sh
