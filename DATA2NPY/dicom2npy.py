@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import dicom
-
+# import pydicom as dicom
 
 N = 82
 W = 512
